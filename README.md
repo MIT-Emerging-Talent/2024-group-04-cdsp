@@ -1,6 +1,6 @@
 
 
-![](image/132519.jpg)
+
 
 
 # MIT-Emerging-Talent-group-04
