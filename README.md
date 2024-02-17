@@ -3,7 +3,7 @@
 #### This is a Collaborative Data Science project within the Emerging Talent program. For many of us in this group, it marks our first venture into this field. Our primary goal is to learn effective collaboration despite challenges such as varying time zones and remote work, utilizing diverse tools. Additionally, we aim to explore the synergy between data science methodologies and domain expertise to foster new insights. Our focus is on translating these insights into practical real-world solutions.
 # Social Media and Mental Health 
 ## Domain
-### health
+### Health
 
 
 ## Problem Statement
