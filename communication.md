@@ -54,7 +54,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | _Zainab (EST)_ | 12 - 13 | 16 - 17 |  12 - 13  | 16 - 17  | 10 - 13 | 10 - 13  | 10 - 13 |
 | _Rohollah (PT)_ | 18 - 20 | 18 - 20 |  18 - 20  | 18 - 20  | 13 - 20 | 09 - 20  | 09 - 20 |
 | _Mahdi (KBL_TIME_ |  -  |  -  |   -   | 20 - 23  | 20 - 23 | 13 - 20  | 18 - 20 |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| _Sediqe (EST)_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day:
 
@@ -63,6 +63,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Rohollah: _3h_;
 - Hanamariam: _4h_;
 - Mahdi: _3h_;
+- Sediqe_2h_;
 
 ## Asking for Help
 
