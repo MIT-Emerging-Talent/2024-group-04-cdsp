@@ -4,6 +4,8 @@
 # Social Media and Mental Health 
 ## Domain
 ### Health
+## Project Overview 
+ Our project aims to explore the relationship between time spent on social media platforms and mental health outcomes. With the increasing prevalence of social media use globally, understanding its potential impact on mental well-being has become a significant area of interest. This project seeks to contribute to the existing body of knowledge by conducting a comprehensive analysis of this correlation.
 
 
 ## Problem Statement
