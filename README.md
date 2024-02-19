@@ -43,7 +43,7 @@ This study aimed to investigate whether social media usage correlates with menta
 A total of 482 individuals participated in the survey, ranging in age from 13 to 91 years old, with an average age of 26.1 years. Out of these participants, 481 reported using social media, while only one individual did not. On average, participants spent 3.5 hours per day on social media platforms.
 (the rest of it, is writing soon...)
 
-#### possible source of error
+#### Possible Source of Error
 Potential sources of errors in this study primarily stem from the data collection process. The dataset mainly comprises responses from individuals, predominantly students, which could introduce significant biases. It's plausible that mental health issues observed might be influenced by factors beyond social media use, such as university tuition fees and exam pressures.
 
 To mitigate these potential biases and broaden the scope of the analysis, it's essential to gather more extensive and diverse data samples from various social groups. This would provide a more comprehensive understanding of the relationship between social media usage and mental health across different demographics and help to isolate the specific impacts of social media from other potential influences.
