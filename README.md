@@ -34,8 +34,9 @@ The data was gathered through survey. It was done from 04/18/2022-11/12/2022
 
 ## Data Analysis
 ### Tools
+For analyzing data we used Jupyter Notebook and packages like Pandas, Seaborn, Matplotlib, Sklearn.
 ### Data cleaning
-
+In data cleaning we did not have any non-entry except for the variable 'Organization type' which was not used in the data analysis therefore there was not removal of any observation. As the variable 'average time spent on social media' was qualitative it was transformed to quantitative by taking the average of an interval for example instead 'between 2 to 3 hour' was replace by '2.5' in order to make analysis possible. Another minor change was that in variable 'gender' some entries were spelled incurrectly which was corrected for. 
 ## Results and evaluation 
 ### Non Technical Explanation
 This study aimed to investigate whether social media usage correlates with mental health issues. We analyzed a dataset obtained from an online survey focused on this subject. The survey assessed various factors related to mental well-being, including difficulty sleeping, susceptibility to distraction, restlessness, anxiety, depression, comparison with others on social media, and disruption of daily routines.
@@ -48,6 +49,8 @@ Potential sources of errors in this study primarily stem from the data collectio
 
 To mitigate these potential biases and broaden the scope of the analysis, it's essential to gather more extensive and diverse data samples from various social groups. This would provide a more comprehensive understanding of the relationship between social media usage and mental health across different demographics and help to isolate the specific impacts of social media from other potential influences.
 ### Techniacal Explanation
+In the correaltion table it illustrate that average time spent on social media per day is not highly correlated with any of the self reported mental health problems such as being bothered by worries, finding difficult to concentrate, feeling depressed or down and facing issues regardign sleep. In the correlation table the highest correlation that 'average time spent on social media per day' has with other varibable is with 'feeling restless if one is not having used social media in a while' which is 0.396. It is followed by 'finding oneself using social media without a specific purpose' which is 0.389.
+The other variable of interest which is somehome an indicator of social media addection is 'finding oneself using social media without a specific purpose', the highest correlation of it is with variable 'getting distructed by social media when one is busy doing something' which is 0.463, followed by 'average time spent on social media per day' which already mentioned above (0.389). 
 
 
 ## Contributors 
