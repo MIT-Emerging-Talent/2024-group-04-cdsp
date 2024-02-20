@@ -41,7 +41,7 @@ In data cleaning we did not have any non-entry except for the variable 'Organiza
 ### Non Technical Explanation
 This study aimed to investigate whether social media usage correlates with mental health issues. We analyzed a dataset obtained from an online survey focused on this subject. The survey assessed various factors related to mental well-being, including difficulty sleeping, susceptibility to distraction, restlessness, anxiety, depression, comparison with others on social media, and disruption of daily routines.
 
-A total of 482 individuals participated in the survey, ranging in age from 13 to 91 years old, with an average age of 26.1 years. Out of these participants, 481 reported using social media, while only one individual did not. On average, participants spent 3.5 hours per day on social media platforms.
+A total of 481 individuals participated in the survey, ranging in age from 13 to 91 years old, with an average age of 26.1 years. Out of these participants, 478 reported using social media, while 3 individuals did not. On average, participants spent 3.5 hours per day on social media platforms.
 (the rest of it, is writing soon...)
 
 #### Possible Source of Error
