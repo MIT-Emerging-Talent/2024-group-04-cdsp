@@ -4,7 +4,7 @@ This is a Collaborative Data Science project within the Emerging Talent program.
 # Social Media and Mental Health 
 Scial media refers to the online platforms and websites that allow user to create their own profile, engage with other people through creating and sharing contents like text, image, videos and links. Social media allow people to socialize virtually with others, communicate, network, consume news and share ideas without physically comeing together. Beside its advantage of facilitating virtual socialization it comes with many different costs and problems in terms of mental health issues, syberbully and harassment, social media attachment or addiction, comperason and low-self steem. One of the major problems that is more concerning is its nagative effects on mental health. By mental health we mean psyclological, emotional and social well-being of a person that effects how he/she thinks, feels, behaves, handles stresses and relates to other people and sroundings. Social media over use is expected to have negative effects on menthal health causing social isolation, loneliness and anxiety. In this study we aim to explore how social media usage correlates with mental health problems.  
 ## Domain
-### Health
+Health 
 ## Project Overview 
  Our project aims to explore the relationship between time spent on social media platforms and mental health outcomes. With the increasing prevalence of social media use globally, understanding its potential impact on mental well-being has become a significant area of interest. This project seeks to contribute to the existing body of knowledge by conducting a comprehensive analysis of this correlation.
 
