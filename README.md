@@ -15,13 +15,13 @@ Human beings are inherently social and rely on connections with others to allevi
 
 ## Actionable data questions
 To assess the impact of social media on mental health, we consider factors associated with mental health issues such as anxiety and sleep disturbances
-1.Correlation between occupation status and average time spent on social media every day?
-2. How much average time spent on social media may affect feeling down and depressed?
-3.How does age correlate with the amount of time spent on social media and mental health outcomes?
-4. Is there a difference in social media usage and its impact on mental health between genders
-5.Is there a correlation between time spent on social media and focus problems
-6.Is there any correlation between the time spent on social media and being worried and anxious
-7.What is the relationship between concentration difficulties and social media usage
+  1.Correlation between occupation status and average time spent on social media every day?
+  2. How much average time spent on social media may affect feeling down and depressed?
+  3.How does age correlate with the amount of time spent on social media and mental health outcomes?
+  4. Is there a difference in social media usage and its impact on mental health between genders
+  5.Is there a correlation between time spent on social media and focus problems
+  6.Is there any correlation between the time spent on social media and being worried and anxious
+  7.What is the relationship between concentration difficulties and social media usage
 
 
 ## Data 
