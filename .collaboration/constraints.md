@@ -1,32 +1,40 @@
-<!-- this template is for inspiration, feel free to change it however you like! -->
 
-# Constraints
+In a project context, constraints refer to the limitations or restrictions that impact the planning, execution, and completion of a project. These constraints can be internal or external factors that our teams need to consider and navigate.
 
-Some boundaries around our project.
+Understanding and managing constraints is crucial for project success. We need to balance these constraints effectively to deliver the project within the specified time, budget, and quality parameters while addressing potential risks. Constraints are an integral part of project planning and require careful consideration throughout the project lifecycle.
 
-## External
+Here are our Constraints that we found so far:
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - number of unit tests required to pass a code review
-  - technologies (sometimes a client will tell you what to use)
--->
+### Time Zone Variability:
 
-## Internal: Involuntary
+Team members are spread across different countries with varying time zones, impacting real-time collaboration.
+### Diverse Backgrounds and Experiences:
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+Team members come from diverse academic and professional backgrounds, which may result in different perspectives and approaches to problem-solving.
+### Limited Availability during the Week:
 
-## Internal: Voluntary
+Due to other academic commitments, tests, assignments, and full-time jobs, team members may have limited availability during weekdays.
+### Weekend Work Constraints:
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+Most team members are available only during the weekends to work on the project and complete assignments.
+### Online Learning Environment:
+
+The program being entirely online may introduce challenges related to effective communication, collaboration, and resource accessibility.
+### Communication Challenges:
+
+Communication may be asynchronous due to time zone differences, potentially leading to delays in responses and coordination.
+### Limited Synchronous Collaboration:
+
+Challenges may arise in coordinating synchronous collaborative sessions, making it essential to maximize effective use of available time.
+### Limited Overlapping Work Hours:
+
+Team members may have limited overlapping work hours during the week, making real-time collaboration more challenging.
+### Balancing Multiple Commitments:
+
+Juggling multiple commitments, including other classes, can impact the time and energy team members can allocate to the project.
+Project Deadline Alignment:
+
+Ensuring alignment on project deadlines, taking into account different academic calendars and potential conflicts with other commitments.
+Language and Communication Styles:
+
+Differences in language proficiency and communication styles may require additional effort to ensure clear understanding among team members.
