@@ -1,6 +1,16 @@
 
-# MIT-Emerging-Talent-group-04
-This is a Collaborative Data Science project within the Emerging Talent program. For many of us in this group, it marks our first venture into this field. Our primary goal is to learn effective collaboration despite challenges such as varying time zones and remote work, utilizing diverse tools. Additionally, we aim to explore the synergy between data science methodologies and domain expertise to foster new insights. Our focus is on translating these insights into practical real-world solutions. This group consist of people from diffirent backgrounds and with different exposures to data and data analyis. We tried learn from each other and make the experience more of a learning, and coordiantion experience. 
+# MIT
+##Emerging Talent
+###Group-04
+
+---
+
+Welcome to our Collaborative Data Science project, a part of the Emerging Talent program. For many of us, this project is our first foray into the field of data science. Our primary objective is to learn effective collaboration despite facing challenges such as differing time zones and remote work, all while utilizing a variety of tools. Additionally, we aim to explore the synergy between data science methodologies and domain expertise to uncover new insights. Our ultimate goal is to translate these insights into practical real-world solutions. 
+
+Our team is made up of individuals from diverse backgrounds, each with varying levels of exposure to data and data analysis. We've embraced this diversity to create a dynamic learning and coordination experience, striving to learn from one another and enhance our skills collectively.
+
+---
+
 ## Social Media and Mental Health 
 Scial media refers to the online platforms and websites that allow user to create their own profile, engage with other people through creating and sharing contents like text, image, videos and links. Social media allow people to socialize virtually with others, communicate, network, consume news and share ideas without physically comeing together. Beside its advantage of facilitating virtual socialization it comes with many different costs and problems in terms of mental health issues, syberbully and harassment, social media attachment or addiction, comperason and low-self steem. One of the major problems that is more concerning is its nagative effects on mental health. By mental health we mean psyclological, emotional and social well-being of a person that effects how he/she thinks, feels, behaves, handles stresses and relates to other people and sroundings. Social media over use is expected to have negative effects on menthal health causing social isolation, loneliness and anxiety. In this study we aim to explore how social media usage correlates with mental health problems.  
 ## Domain
