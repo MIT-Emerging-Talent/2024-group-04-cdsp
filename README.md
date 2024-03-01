@@ -29,6 +29,8 @@ With the widespread use of social media globally, concerns have arisen regarding
 
 We collected our dataset through a survey conducted from 04/18/2022 to 11/12/2022. The dataset includes responses from individuals regarding their social media usage habits and self-reported mental health indicators.
 
+---
+
 ## Analysis
 
 ### Actionable Data Questions
@@ -39,11 +41,17 @@ To assess the impact of social media on mental health, we considered various fac
 
 Our analysis revealed moderate correlations between certain social media behaviors, such as feeling restless without social media and getting easily distracted by it, and mental health indicators like difficulty concentrating. However, the average time spent on social media per day showed a low correlation with mental health problems.
 
+---
+
 ### Conclusion
 
 While our findings suggest a correlation between specific social media behaviors and mental health outcomes, further research is needed to better understand these relationships. By acknowledging the potential impact of social media on mental health, we can work towards promoting healthier online habits and supporting mental well-being in the digital age.
 
-### You can find more details here!
+---
+
+### You can find more details here https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/blob/main/Data%20and%20Research%20Questions/In-depth%20description.md
+
+---
 
 ## Contributors
 
