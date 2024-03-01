@@ -49,7 +49,8 @@ While our findings suggest a correlation between specific social media behaviors
 
 ---
 
-### You can find more details here https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/blob/main/Data%20and%20Research%20Questions/In-depth%20description.md
+### You can find more details here 
+https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/blob/main/Data%20and%20Research%20Questions/In-depth%20description.md
 
 ---
 
