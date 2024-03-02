@@ -190,3 +190,22 @@ Another dependent variable that had an R-squared value below 0.2 in simple regre
 
 Conclusion:
 The data in this study shows that 'average time spent on social media per day' has a low correlation with mental health problems, while three other variables related to social media attachment are moderately correlated with some mental health issues such as 'how easily distracted one is' and 'finding difficulty to concentrate on things'. However, other mental health problems have a low correlation with all the social media-related variables. Visual analysis and regression analysis also confirm the relationships found in the correlation analysis.
+
+---
+---
+
+ ## Below are additional articles related to the topic:
+
+### Social Media Use and Depression and Anxiety Symptoms: A Cluster Analysis
+
+This study examined social media use (SMU) patterns among a nationally representative sample of 19-to-32-year-olds in the US and their associations with depression and anxiety symptoms. Using cluster analysis, five distinct SMU patterns were identified based on time spent on social media, frequency of site visits, multiple platform use, problematic social media use (PSMU), and social media intensity (SMI). Two patterns, labeled "Wired" and "Connected," showed the highest risk for depression and anxiety symptoms. The other three patterns did not show significant associations with these symptoms. The findings suggest that understanding patterns of SMU rather than individual characteristics may be more useful in identifying those at risk for mental health issues and in developing interventions.
+
+Read the full article [here!](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5904786/)
+
+---
+
+### A systematic review: the influence of social media on depression, anxiety and psychological distress in adolescents
+
+This systematic review investigated the relationship between social media use and mental health issues in adolescents. It analyzed 13 studies, with depression being the most commonly studied outcome. The review found that factors such as time spent on social media, specific activities like constant message checking, personal investment, and addictive or problematic use were associated with depression, anxiety, and psychological distress in adolescents. However, the review emphasized the need to differentiate between association and causation, noting that while there is evidence of an association between social media use and mental health problems, causation has not been definitively established. The review categorized key findings into four exposure categories: time spent, activity, investment, and addiction, all of which were correlated with mental health issues. It also identified gaps in the literature, such as methodological shortcomings and a lack of exploration of certain mediators and moderators of the relationship. The review calls for further research to better understand the complex relationship between social media use and adolescent mental health.
+
+Read the full article [here!](https://www.tandfonline.com/doi/full/10.1080/02673843.2019.1590851)
