@@ -62,7 +62,9 @@ This study aimed to investigate whether social media usage correlates with menta
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/a4a8074c-e14a-4261-aec8-761bc66dd5d1)
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/cb25aaf6-5500-4519-a74d-91fd1f8a9292)
 
+
 2) In this survey 478 participants used social media. (99%)
+
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/53e116d4-e155-472f-ab92-4b6e090ef2ff)
 
 3) About 59% of participants introduced themselves as Single, 21% married and the rest(20%) chose others.
