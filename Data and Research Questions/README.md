@@ -58,19 +58,19 @@ In data cleaning, we did not encounter any non-entries except for the variable '
 
 This study aimed to investigate whether social media usage correlates with mental health issues. We analyzed a dataset obtained from an online survey focused on this subject. The survey assessed various factors related to mental well-being, including difficulty sleeping, susceptibility to distraction, restlessness, anxiety, depression, comparison with others on social media, and disruption of daily routines. A total of 481 individuals participated in the survey, ranging in age from 13 to 91 years old, with an average age of 26.1 years. Out of these participants, 478 reported using social media, while 3 individuals did not. On average, participants spent 3.5 hours per day on social media platforms.
 
-1) A total of 481 individuals participated in the survey, ranging in age from 13 to 91 years old, with an average age of 26.1 years.
+1) The study involved 481 people who took part in the survey, covering a wide age range from 13 to 91 years old. The average age of the participants was calculated to be 26.1 years, giving us an idea of the general age group represented in the study.
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/a4a8074c-e14a-4261-aec8-761bc66dd5d1)
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/cb25aaf6-5500-4519-a74d-91fd1f8a9292)
 
 
-2) In this survey 478 participants used social media. (99%)
+2) Out of the total 481 participants, a vast majority of 478 individuals reported using social media platforms. This indicates a very high percentage of participation in social media usage among the surveyed population, with only a small fraction of 3 individuals not using social media.
 
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/53e116d4-e155-472f-ab92-4b6e090ef2ff)
 
-3) About 59% of participants introduced themselves as Single, 21% married and the rest(20%) chose others.
+3) The survey revealed that a significant portion of the participants, about 59%, identified themselves as single. Additionally, approximately 21% of the participants stated that they were married, while the remaining 20% chose other relationship statuses. This distribution provides insight into the marital status of the surveyed population.
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/44906a98-e2c3-4b5f-972f-3d5d8123d85b)
 
-4) While 27% were salaried worker, 10% school student, and 1% retired, majority of the respondents were university student.
+4) Among the participants, various occupational statuses were reported. A notable portion, constituting 27% of the respondents, identified themselves as salaried workers. Additionally, 10% of the participants were school students, and a mere 1% were retired individuals. However, the largest group of respondents were university students, indicating that they formed the majority of the surveyed population in terms of occupation.
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/a75e6595-67f6-429c-aaa5-274ef6876d61)
 
 
