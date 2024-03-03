@@ -71,6 +71,8 @@ This study aimed to investigate whether social media usage correlates with menta
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/44906a98-e2c3-4b5f-972f-3d5d8123d85b)
 
 4) Among the participants, various occupational statuses were reported. A notable portion, constituting 27% of the respondents, identified themselves as salaried workers. Additionally, 10% of the participants were school students, and a mere 1% were retired individuals. However, the largest group of respondents were university students, indicating that they formed the majority of the surveyed population in terms of occupation.
+
+
 ![image](https://github.com/MIT-Emerging-Talent/2024-group-04-cdsp/assets/107054053/a75e6595-67f6-429c-aaa5-274ef6876d61)
 
 
