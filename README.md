@@ -48,6 +48,12 @@ Our analysis revealed moderate correlations between certain social media behavio
 While our findings suggest a correlation between specific social media behaviors and mental health outcomes, further research is needed to better understand these relationships. By acknowledging the potential impact of social media on mental health, we can work towards promoting healthier online habits and supporting mental well-being in the digital age.
 
 ---
+## Communication Artifact
+
+Our target audience for this project is composed of social media users, with a particular focus on individuals aged 12-41. This age group constitutes 87% of the participants included in our data analysis.
+
+What better platform exists to engage with social media users than on social media itself? Therefore, we intend to disseminate memes and reels across various social media platforms in a humorous manner to showcase our project findings.
+
 
 ### You can find more details [here!](Data%20and%20Research%20Questions/README.md)
 
